@@ -1,4 +1,6 @@
-# 🚀 DevOps | SRE | Platform Engineer
+# � Olá! Meu nome é Wesley Tibúcio
+
+## 🚀 DevOps | SRE | Platform Engineer
 
 <div align="center">
 
@@ -24,7 +26,7 @@
 
 ---
 
-> ### 💭 *"Não sou inteligente, só sou curioso. A curiosidade me leva a explorar, questionar e melhorar a cada dia. E é nessa jornada de aprendizado que descobri minha paixão por DevOps."*
+> ### 💭 *"Não sou inteligente, só curioso. A curiosidade me leva a explorar, questionar e melhorar cada dia na busca pela excelência em DevOps."*
 
 </div>
 
