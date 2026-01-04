@@ -1,4 +1,4 @@
-# � Olá! Meu nome é Wesley Tibúcio
+# Olá! Meu nome é Wesley Tibúcio 👋
 
 ## 🚀 DevOps | SRE | Platform Engineer
 
