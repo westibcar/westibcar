@@ -54,7 +54,7 @@ Sou um **DevOps/SRE/Platform Engineer** obsessionado por:
     <b>Terraform</b>
   </td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-plain.svg" width="50" height="50" alt="Prometheus"/><br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50" alt="Prometheus"/><br/>
     <b>Prometheus</b>
   </td>
   <td align="center">
@@ -157,6 +157,7 @@ $ topics i_love_talking_about
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleytcarvalho/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/westibcar)
+[![Website](https://img.shields.io/badge/Website-uday.com.br-FF6B35?style=for-the-badge&logo=globus&logoColor=white)](https://uday.com.br)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@uday.com.br)
 
 </div>
