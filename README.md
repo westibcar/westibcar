@@ -93,20 +93,6 @@ Sou um **DevOps/SRE/Platform Engineer** obsessionado por:
 
 ---
 
-## 📈 Estatísticas de Produção
-
-```
-╔════════════════════════════════════════╗
-║  🟢 Uptime: 99.99% (SLA mantido)       ║
-║  ⚡ Deploy Time: Sub-minuto             ║
-║  📊 Monitoring: 24/7 com alertas       ║
-║  🔄 Rollback automático: Ativado       ║
-║  🛡️  Segurança: Scanning contínuo       ║
-╚════════════════════════════════════════╝
-```
-
----
-
 ## 📞 Vamos Conversar Sobre
 
 ```bash
