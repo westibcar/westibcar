@@ -22,7 +22,6 @@
 ![DevOps](https://img.shields.io/badge/DevOps-EternoAprendiz-purple?style=for-the-badge&logo=kubernetes)
 ![SRE](https://img.shields.io/badge/SRE-Reliability-blue?style=for-the-badge&logo=grafana)
 ![Platform%20Engineer](https://img.shields.io/badge/Platform%20Engineer-Builder-green?style=for-the-badge&logo=terraform)
-![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=for-the-badge)
 
 ---
 
