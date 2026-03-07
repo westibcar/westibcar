@@ -94,28 +94,6 @@ Sou um **DevOps/SRE/Platform Engineer** obsessionado por:
 
 ---
 
-## 🔥 O Que Eu Faço
-
-```yaml
-DevOps_Philosophy:
-  - name: "Infraestrutura Resiliente"
-    description: "Sistemas que não caem, e se caem, se recuperam sozinhos"
-    
-  - name: "Automação Inteligente"
-    description: "Eliminar trabalho manual, aumentar eficiência"
-    
-  - name: "Observabilidade Total"
-    description: "Logs, métricas, traces - ver tudo em tempo real"
-    
-  - name: "Escalabilidade Horizontal"
-    description: "De 1 usuário para 1 bilhão sem suar a camisa"
-    
-  - name: "GitOps Lifestyle"
-    description: "Git como fonte da verdade, everything as code"
-```
-
----
-
 ## 📈 Estatísticas de Produção
 
 ```
@@ -127,16 +105,6 @@ DevOps_Philosophy:
 ║  🛡️  Segurança: Scanning contínuo       ║
 ╚════════════════════════════════════════╝
 ```
-
----
-
-## 🎓 Atualmente Aprendendo
-
-- 🚀 eBPF e advanced Linux kernel
-- 🤖 IA/ML ops e MLflow
-- 🌐 Service Mesh (Istio)
-- 💾 Database Sharding e Distributed Systems
-- 🔐 Zero-Trust Architecture
 
 ---
 
@@ -169,13 +137,6 @@ $ topics i_love_talking_about
 </div>
 
 ---
-
-## 💡 Fato Curioso
-
-> "Toda automação que demora mais de 5 minutos para fazer manualmente, deveria ser automatizada." - *Um DevOps provavelmente*
-
----
-
 <div align="center">
 
 **⭐ Se você gostou, deixa uma estrela!**
